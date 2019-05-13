@@ -1,0 +1,15 @@
+body {
+    background-color: #232330;
+    color: white;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color: gray
+}
+
+.container { 
+    display: flex;
+    flex-direction: column;
+}
